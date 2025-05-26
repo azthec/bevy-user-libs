@@ -44,3 +44,11 @@ In your `Cargo.toml`:
 bevy_plugin_name = { path = "../bevy-user-libs/path/to/bevy-plugin" }
 ```
 
+## Compatibility
+
+| bevy | lib                    |
+|------|------------------------|
+| 0.16 | bevy_lit               |
+| 0.16 | bevy_voronoi           |
+| 0.16 | bevy_wind_waker_shader |
+
