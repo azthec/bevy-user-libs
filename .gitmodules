@@ -1,0 +1,9 @@
+[submodule "bevy_voronoi"]
+	path = bevy_voronoi
+	url = https://github.com/malbernaz/bevy_voronoi
+[submodule "bevy_lit"]
+	path = bevy_lit
+	url = https://github.com/malbernaz/bevy_lit
+[submodule "bevy_wind_waker_shader"]
+	path = bevy_wind_waker_shader
+	url = https://github.com/janhohenheim/bevy_wind_waker_shader
