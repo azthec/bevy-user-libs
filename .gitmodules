@@ -13,3 +13,6 @@
 [submodule "bevy_hanabi"]
 	path = bevy_hanabi
 	url = git@github.com:djeedai/bevy_hanabi.git
+[submodule "bevy-spatial"]
+	path = bevy-spatial
+	url = git@github.com:laundmo/bevy-spatial.git

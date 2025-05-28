@@ -48,7 +48,10 @@ bevy_plugin_name = { path = "../bevy-user-libs/path/to/bevy-plugin" }
 
 | bevy | lib                    |
 |------|------------------------|
+| 0.16 | bevy_hanabi            |
 | 0.16 | bevy_lit               |
+| 0.16 | bevy_mod_outline       |
+| 0.16 | bevy_spatial           |
 | 0.16 | bevy_voronoi           |
 | 0.16 | bevy_wind_waker_shader |
 
